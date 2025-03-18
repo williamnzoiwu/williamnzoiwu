@@ -8,8 +8,8 @@ As a graduate of UT Austin's Data Analysis & Visualization certificate program, 
 I'm particularly interested in projects that leverage data to solve real-world problems and improve human experiences. My repository showcases my journey in data science, web development, and visualization techniques, reflecting my commitment to continuous learning and practical application of emerging technologies.
 
 ## Education
-# B.A., Telecommunication Media Studies - Texas A&M University, College Station
-# Certificate, Data Analysis & Visualization - University of Texas at Austin
+### B.A., Telecommunication Media Studies - Texas A&M University, College Station
+### Certificate, Data Analysis & Visualization - University of Texas at Austin
 
 Let's connect: [LinkedIn](https://linkedin.com/in/william-nzoiwu/) | [Email](mailto:williamnzoiwu@gmail.com)<!--
 **williamnzoiwu/williamnzoiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

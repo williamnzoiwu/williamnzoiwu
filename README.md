@@ -1,8 +1,8 @@
 # William Nzoiwu
-## Data Analyst & Developer | Austin, TX
+## Data Analyst | Austin, TX
 
 ## About Me
-Passionate data professional with a blend of analytical and technical skills, I transform complex data into actionable insights through Python, SQL, and JavaScript. My background combines formal data analysis training with practical experience in leadership and customer-focused environments at H-E-B.
+As a passionate data analyst with a blend of analytical and technical skills, I transform complex data into actionable insights through Python, SQL, and JavaScript. My background combines formal data analysis training with practical experience in leadership and customer-focused environments at H-E-B.
 
 As a graduate of UT Austin's Data Analysis & Visualization certificate program, I've developed projects like a mental health chatbot using machine learning and TensorFlow while creating compelling data visualizations to communicate trends. My approach balances technical precision with effective communication—skills honed through my experience as a Talent Development Trainer where I regularly translate complex information into understandable concepts.
 
@@ -20,4 +20,6 @@ A chatbot that uses machine learning to offer help or advice to users who may be
 **Technical Skills:** SQL, Python, JavaScript, HTML, Tableau, Excel, VBA, ETL, Adobe Creative Cloud (Photoshop, Illustrator, Dreamweaver, Premiere Pro)\
 **Soft Skills:** Customer Service, Written & Verbal Communication, Proofreading, Attention to Detail, Leadership & Supervision
 
-Let's connect: [LinkedIn](https://linkedin.com/in/william-nzoiwu/) | [Email](mailto:williamnzoiwu@gmail.com)<!--
+## Links
+LinkedIn: https://linkedin.com/in/william-nzoiwu/ \
+Email: [williamnzoiwu@gmail.com](mailto:williamnzoiwu@gmail.com)
